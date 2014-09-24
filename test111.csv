@@ -1,0 +1,6 @@
+sku~store~attribute_set~type~category_ids~root_category~product_websites~manufacturer~cost~country_of_manufacture~description~gallery~has_options~image~meta_description~meta_keyword~meta_title~name~news_from_date~news_to_date~options_container~price~required_options~short_description~showstock~small_image~special_from_date~special_price~special_to_date~status~tax_class_id~thumbnail~url_key~url_path~visibility~weight~qty~min_qty~use_config_backorders~is_in_stock~use_config_manage_stock~use_config_qty_increments
+test1~~Default~simple~5~Default Category~base~~~~hi~~0~~~~~a~~~~39.99~0~hjg~1~~~~~1~0~~za~za.php~4~~100~0~0~1~1~1
+test2~~Default~simple~5~Default Category~base~~~~dew~~0~~~~~s~~~~4~0~hjh~1~~~~~1~0~~zaa~zaa.php~4~~101~0~0~1~1~1
+test3~~Default~simple~5~Default Category~base~~~~we~~0~~~~~d~~~~1~0~jhj~1~~~~~1~0~~zaaa~zaaa.php~4~~102~0~0~1~1~1
+test4~~Default~simple~5~Default Category~base~~~~wew~~0~~~~~f~~~~4~0~hjh~1~~~~~1~0~~aaa~aaa.php~4~~103~0~0~1~1~1
+test5~~Default~simple~5~Default Category~base~~~~wew~~0~~~~~g~~~~1~0~hjhj~1~~~~~1~0~~aaaaa~aaaaa.php~4~~104~0~0~1~1~1

@@ -1,0 +1,38 @@
+
+TIMING CATEGORY:db
+--------------------------------
+Phase:beforeImport
+- Class:Magmi_ProductImportEngine :0.0001 - Class:Magmi_CSVDataSource :0.0001 
+Phase:startImport
+- Class:Magmi_ProductImportEngine :0.0002 - Class:Magmi_CSVDataSource :0.0001 
+Phase:processColumnList
+- Class:Magmi_ProductImportEngine :0.0003 - Class:CategoryImporter :0.0002 - Class:Magmi_DefaultAttributeItemProcessor :0.0002 
+Phase:processItemBeforeId
+- Class:Magmi_ProductImportEngine :0.0005 - Class:CategoryImporter :0.0003 - Class:Magmi_DefaultAttributeItemProcessor :0.0003 
+Phase:endImport
+- Class:Magmi_ProductImportEngine :0.0001 
+Phase:afterImport
+
+Phase:indb
+- Class:Magmi_ProductImportEngine :0.0905 - Class:CategoryImporter :0.0905 
+TIMING CATEGORY:global
+--------------------------------
+Phase:beforeImport
+- Class:Magmi_ProductImportEngine :0.0001 - Class:Magmi_CSVDataSource :0.0001 
+Phase:startImport
+- Class:Magmi_ProductImportEngine :0.0002 - Class:Magmi_CSVDataSource :0.0001 
+Phase:processColumnList
+- Class:Magmi_ProductImportEngine :0.0003 - Class:CategoryImporter :0.0002 - Class:Magmi_DefaultAttributeItemProcessor :0.0002 
+Phase:processItemBeforeId
+- Class:Magmi_ProductImportEngine :0.0005 - Class:CategoryImporter :0.0003 - Class:Magmi_DefaultAttributeItemProcessor :0.0003 
+Phase:endImport
+- Class:Magmi_ProductImportEngine :0.0001 
+Phase:afterImport
+
+TIMING CATEGORY:line
+--------------------------------
+Phase:processItemBeforeId
+- Class:Magmi_ProductImportEngine :0.0001 
+Phase:endImport
+- Class:Magmi_ProductImportEngine :0.0001 
+Phase:afterImport
